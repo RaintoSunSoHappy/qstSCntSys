@@ -43,7 +43,7 @@ public class BaseDaoImpl<T> extends
     public static final String SQLID_DELETE = "deletePK";  
     public static final String SQLID_DELETE_PARAM = "deleteParam";  
     public static final String SQLID_DELETE_BATCH = "deleteBatch";  
-    public static final String SQLID_TRUNCATE = "truncate";  
+    public static final String SQLID_TRUNCATE = "truncate";  //Õû±íÉ¾³ý
     public static final String SQLID_SELECT = "select";  
     public static final String SQLID_SELECT_PK = "selectPk";  
     public static final String SQLID_SELECT_PARAM = "selectParam";
